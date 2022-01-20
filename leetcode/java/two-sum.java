@@ -5,5 +5,6 @@ class Solution {
       if(m.containsKey(target-nums[i]))return new int[] {m.get(target-nums[i]), i};
       m.put(nums[i],i);
     }
+    return new int[] {-1,-1};
   }
 }
