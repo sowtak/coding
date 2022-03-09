@@ -18,6 +18,7 @@ macro_rules! input {
       input_inner!{next, $($r)*}
   };
 }
+
  
 macro_rules! input_inner {
   ($next:expr) => {};
@@ -143,8 +144,8 @@ use std::mem::swap;
 
 fn main() {
     input! {
-        h: i32,
-        i: i32,
+
     }
-    println!("{}", h-i);
-}
+}
+
+
