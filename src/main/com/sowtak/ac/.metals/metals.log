@@ -1,0 +1,4 @@
+2022.05.01 07:08:46 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/sowtak/coding/src/main/com/sowtak/ac/.metals/lsp.trace.json or /home/sowtak/.cache/metals/lsp.trace.json[0m
+2022.05.01 07:08:47 INFO  logging to file /home/sowtak/coding/.metals/metals.log[0m
+2022.05.01 07:10:15 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/sowtak/coding/src/main/com/sowtak/ac/.metals/lsp.trace.json or /home/sowtak/.cache/metals/lsp.trace.json[0m
+2022.05.01 07:10:15 INFO  logging to file /home/sowtak/coding/.metals/metals.log[0m

@@ -1,0 +1,24 @@
+#include <iostream>
+#include <vector>
+#include <set>
+#include <algorithm>
+#include <cmath>
+#include <cstring>
+#define ll long long
+#define rep(idx,b,e) for(int idx=(b);idx<e;idx++)
+#define rrep(idx,b,e) for(int idx=b;idx>e;idx--)
+#define vt vector
+using namespace std;
+
+const int MAX = 1000000007;
+const int MAX2 = 998244353;
+
+int a,b,k;
+int main() {
+  int ans=0;
+  cin>>a>>b>>k;
+  while(a<b) {
+    a*=k;ans++;
+  }
+  cout<<ans<<endl;
+}
