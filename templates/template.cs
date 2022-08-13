@@ -14,7 +14,7 @@ class Solve
 
   static void Main() 
   {
-    new Solve().calc(); 
+    
   }
 
   Scanner cin;
